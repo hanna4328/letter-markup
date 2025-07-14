@@ -1,2 +1,1 @@
-# letter-markup
-learning to markup a letter using html
+learning the web
